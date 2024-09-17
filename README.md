@@ -1,5 +1,5 @@
-<h3>👋 Olá, Meu nome é Marcus!</h3>
+<h3>👋 Olá, meu nome é Marcus!</h3>
 
 * 🌱 Estou aprendendo python
-* 📫 Contact: vinicius.slima09@gmail.com
+* 📫 Contate-me: vinicius.slima09@gmail.com
   
